@@ -35,7 +35,7 @@ paragraphs.
         0: Bag of Nodes
         1: Bag of Edges
         2: Bag of Neighborhoods
-        3: Nag of Reachabilities
+        3: Bag of Reachabilities
         4: Bag of Shortest Paths
         5: Bag of Connected Components
         6: Bag of Attracting Components
